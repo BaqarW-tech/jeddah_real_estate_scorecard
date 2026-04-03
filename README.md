@@ -2,9 +2,11 @@
 
 > A Python-based real estate evaluation tool that scores Jeddah residential properties on investment potential using rental yield benchmarking, price analysis, Vision 2030 strategic alignment, and supply-side risk — deployed as a live Streamlit web application.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+---
+
+# Live Demo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+](https://jeddahrealestatescorecard-9ftuvu4etzu9kcgbi3opo5.streamlit.app)
 
 ---
 
